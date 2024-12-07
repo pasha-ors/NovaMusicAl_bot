@@ -1,0 +1,32 @@
+# Python bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+.venv/
+env/
+ENV/
+
+# Environment variables file
+.env
+
+# Temporary files
+temp/
+*.log
+
+# Database
+database/
+*.db
+
+# FFmpeg executables and other binaries
+ffmpeg/
+
+# IDEs and editors
+.idea/
+.vscode/
+
+# Operating system specific files
+.DS_Store
+Thumbs.db
